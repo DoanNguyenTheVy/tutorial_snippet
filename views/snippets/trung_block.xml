@@ -1,0 +1,7 @@
+<odoo>
+	<template id="trung_block" name="Trung Block">
+		<section>
+			<p>Le chi trung</p>
+		</section>
+	</template>
+</odoo>
